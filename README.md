@@ -5,5 +5,5 @@
 * A demo project written in Java (JSP/Servlet/Spring Boot)
 * ...
 
-#### Copyright © 2023 giáo.làng
+#### Copyright © 2023 chinhbean09
  
